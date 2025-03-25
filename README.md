@@ -7,7 +7,7 @@ This project predicts and simulates the **NCAA Men’s and Women’s Basketball 
 ✅ **Simulated tournament brackets** (Men's & Women's)  
 ✅ **Visualized NCAA bracket progressions**  
 
-**Challenge link - Kaggle:**[March Machine Learning Mania 2025] (https://www.kaggle.com/competitions/march-machine-learning-mania-2025)
+**Challenge link - Kaggle:** [March Machine Learning Mania 2025](https://www.kaggle.com/competitions/march-machine-learning-mania-2025)
 ---
 
 ## Step 1: Data Preparation
